@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Jeong-Daun.
-- 👀 I’m interested in big-data.
-- 🌱 I’m currently learning ML/Dl.
 - 💞️ I will share the records I studied with GitHub.
 
 <!---
